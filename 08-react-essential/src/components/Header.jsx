@@ -1,4 +1,5 @@
 import logo from "../assets/investment-calculator-logo.png";
+import UserInput from "./UserInput";
 
 export default function Header() {
   return (
